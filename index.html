@@ -6,29 +6,44 @@
     <title>Page Title</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="main.css">
-    <script src="main.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    
 </head>
 <body>
-    <center id="game" style="color: rgb(107, 204, 131)">
-        <div class="hand sideBySide">
-            <div class="card">Card 1</div>
-            <div class="card">Card 2</div>
-            <div class="card">Card 3</div>
+    <div id="game" style="color: rgb(107, 204, 131);" class="align-items-center justify-content-center">
+        <div class="hand row align-items-center justify-content-center col-sm-12 col-12">
+            <div class="carta col-sm-2 col-3">Card 1</div>
+            <div class="carta col-sm-2 col-3">Card 2</div>
+            <div class="carta col-sm-2 col-3">Card 3</div>
         </div>
         <hr>
-        <div class="sideBySide">
-            <center>
-                <div id="p1" class="card">Attack P2</div>
-                <div id="p2" class="card">Attack P1</div>
-            </center>
-            <div id="deck" class="card">Deck</div>
+        <div class="row col-sm-12 col-12" style="margin-left: 0px; ">
+            <div class="col-sm-4 col-4"></div>
+            <div class="col-sm-4 col-4" >
+                <div class="row align-items-center justify-content-center col-sm-12 col-12 p-0">
+                    <div id="p1" class="carta col-sm-7 col-12">Attack P2</div>
+                </div>
+                <div class="row align-items-center justify-content-center col-sm-12 col-12 p-0">
+                    <div id="p2" class="carta col-sm-7 col-12">Attack P1</div>
+                </div>
+            </div>
+            <div class="col-sm-4 col-4">
+                <div class="row align-items-center justify-content-center col-sm-12 col-12 p-0 m-0">
+                    <div id="deck" class="carta col-sm-7 col-12 m-0">Deck</div>
+                </div>
+            </div>
         </div>
         <hr>
-        <div class="hand sideBySide">
-            <div class="card">Card 1</div>
-            <div class="card">Card 2</div>
-            <div class="card">Card 3</div>
+        <div class="hand row align-items-center justify-content-center col-sm-12 col-12">
+            <div class="carta col-sm-2 col-3">Card 1</div>
+            <div class="carta col-sm-2 col-3">Card 2</div>
+            <div class="carta col-sm-2 col-3">Card 3</div>
         </div>
-    </center>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="main.js"></script>
 </body>
 </html>
