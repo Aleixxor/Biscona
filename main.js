@@ -58,34 +58,29 @@ const signs = {
 }
 const names = ["2", "3", "4", "5", "6", "Q", "J", "K", "7", "A"];
 
-generateCardList();
-console.log(cardList);
-
-function generateCardList(){
+function cardListStart(){
     elements.forEach(element => {
-        addElement(element);
-    });
+        signs[element].forEach(sign => {
+            generateDeckList(element, sign);
+        })
+    })
 }
 
-function addElement(element){
+function generateDeckList(element, sign){
+    let deck = [];
     let card = {};
-    card.element = element;
-    signs[element].forEach(sign => {
+    names.forEach(function(name,$index){
+        card.element = element;
         card.sign = sign;
+        card.name = name;
         card.image = classesNames[sign][0];
         card.symbol = classesNames[sign][1];
-        addStuff(card);
-    });
-}
-
-function addStuff(card){
-    for(let x=0; x<10; x++){
-        card.power = addCardPower(x);
-        card.name = names[x];
-        card.id = card.element+card.sign+x;
+        card.power = addCardPower($index);
+        card.id = card.element+card.sign+$index;
         console.log(card);
-        cardList.push(card);
-    }
+        deck.push(card);
+        console.log(deck);
+    })
 }
 
 function addCardPower(x){
