@@ -1,842 +1,1106 @@
 [
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Fire",
-       "sign":"Sagittarius",
-       "power":210,
-       "name":"A",
-       "id":"FireSagittarius9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Water",
-       "sign":"Pisces",
-       "power":210,
-       "name":"A",
-       "id":"WaterPisces9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Earth",
-       "sign":"Capricorn",
-       "power":210,
-       "name":"A",
-       "id":"EarthCapricorn9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    },
-    {
-       "element":"Air",
-       "sign":"Aquarius",
-       "power":210,
-       "name":"A",
-       "id":"AirAquarius9"
-    }
- ]
+   [
+      {
+         "element": "Fire",
+         "sign": "Aries",
+         "name": "2",
+         "image": "flaticon-aries-zodiac-symbol-of-frontal-goat-head",
+         "symbol": "flaticon-aries-sign",
+         "power": 20,
+         "id": "FireAries0"
+      },
+      {
+         "element": "Fire",
+         "sign": "Aries",
+         "name": "3",
+         "image": "flaticon-aries-zodiac-symbol-of-frontal-goat-head",
+         "symbol": "flaticon-aries-sign",
+         "power": 30,
+         "id": "FireAries1"
+      },
+      {
+         "element": "Fire",
+         "sign": "Aries",
+         "name": "4",
+         "image": "flaticon-aries-zodiac-symbol-of-frontal-goat-head",
+         "symbol": "flaticon-aries-sign",
+         "power": 40,
+         "id": "FireAries2"
+      },
+      {
+         "element": "Fire",
+         "sign": "Aries",
+         "name": "5",
+         "image": "flaticon-aries-zodiac-symbol-of-frontal-goat-head",
+         "symbol": "flaticon-aries-sign",
+         "power": 50,
+         "id": "FireAries3"
+      },
+      {
+         "element": "Fire",
+         "sign": "Aries",
+         "name": "6",
+         "image": "flaticon-aries-zodiac-symbol-of-frontal-goat-head",
+         "symbol": "flaticon-aries-sign",
+         "power": 60,
+         "id": "FireAries4"
+      },
+      {
+         "element": "Fire",
+         "sign": "Aries",
+         "name": "Q",
+         "image": "flaticon-aries-zodiac-symbol-of-frontal-goat-head",
+         "symbol": "flaticon-aries-sign",
+         "power": 120,
+         "id": "FireAries5"
+      },
+      {
+         "element": "Fire",
+         "sign": "Aries",
+         "name": "J",
+         "image": "flaticon-aries-zodiac-symbol-of-frontal-goat-head",
+         "symbol": "flaticon-aries-sign",
+         "power": 130,
+         "id": "FireAries6"
+      },
+      {
+         "element": "Fire",
+         "sign": "Aries",
+         "name": "K",
+         "image": "flaticon-aries-zodiac-symbol-of-frontal-goat-head",
+         "symbol": "flaticon-aries-sign",
+         "power": 140,
+         "id": "FireAries7"
+      },
+      {
+         "element": "Fire",
+         "sign": "Aries",
+         "name": "7",
+         "image": "flaticon-aries-zodiac-symbol-of-frontal-goat-head",
+         "symbol": "flaticon-aries-sign",
+         "power": 200,
+         "id": "FireAries8"
+      },
+      {
+         "element": "Fire",
+         "sign": "Aries",
+         "name": "A",
+         "image": "flaticon-aries-zodiac-symbol-of-frontal-goat-head",
+         "symbol": "flaticon-aries-sign",
+         "power": 210,
+         "id": "FireAries9"
+      }
+   ],
+   [
+      {
+         "element": "Fire",
+         "sign": "Leo",
+         "name": "2",
+         "image": "flaticon-leo-zodiac-symbol-of-lion-head-from-side-view",
+         "symbol": "flaticon-leo-sign",
+         "power": 20,
+         "id": "FireLeo0"
+      },
+      {
+         "element": "Fire",
+         "sign": "Leo",
+         "name": "3",
+         "image": "flaticon-leo-zodiac-symbol-of-lion-head-from-side-view",
+         "symbol": "flaticon-leo-sign",
+         "power": 30,
+         "id": "FireLeo1"
+      },
+      {
+         "element": "Fire",
+         "sign": "Leo",
+         "name": "4",
+         "image": "flaticon-leo-zodiac-symbol-of-lion-head-from-side-view",
+         "symbol": "flaticon-leo-sign",
+         "power": 40,
+         "id": "FireLeo2"
+      },
+      {
+         "element": "Fire",
+         "sign": "Leo",
+         "name": "5",
+         "image": "flaticon-leo-zodiac-symbol-of-lion-head-from-side-view",
+         "symbol": "flaticon-leo-sign",
+         "power": 50,
+         "id": "FireLeo3"
+      },
+      {
+         "element": "Fire",
+         "sign": "Leo",
+         "name": "6",
+         "image": "flaticon-leo-zodiac-symbol-of-lion-head-from-side-view",
+         "symbol": "flaticon-leo-sign",
+         "power": 60,
+         "id": "FireLeo4"
+      },
+      {
+         "element": "Fire",
+         "sign": "Leo",
+         "name": "Q",
+         "image": "flaticon-leo-zodiac-symbol-of-lion-head-from-side-view",
+         "symbol": "flaticon-leo-sign",
+         "power": 120,
+         "id": "FireLeo5"
+      },
+      {
+         "element": "Fire",
+         "sign": "Leo",
+         "name": "J",
+         "image": "flaticon-leo-zodiac-symbol-of-lion-head-from-side-view",
+         "symbol": "flaticon-leo-sign",
+         "power": 130,
+         "id": "FireLeo6"
+      },
+      {
+         "element": "Fire",
+         "sign": "Leo",
+         "name": "K",
+         "image": "flaticon-leo-zodiac-symbol-of-lion-head-from-side-view",
+         "symbol": "flaticon-leo-sign",
+         "power": 140,
+         "id": "FireLeo7"
+      },
+      {
+         "element": "Fire",
+         "sign": "Leo",
+         "name": "7",
+         "image": "flaticon-leo-zodiac-symbol-of-lion-head-from-side-view",
+         "symbol": "flaticon-leo-sign",
+         "power": 200,
+         "id": "FireLeo8"
+      },
+      {
+         "element": "Fire",
+         "sign": "Leo",
+         "name": "A",
+         "image": "flaticon-leo-zodiac-symbol-of-lion-head-from-side-view",
+         "symbol": "flaticon-leo-sign",
+         "power": 210,
+         "id": "FireLeo9"
+      }
+   ],
+   [
+      {
+         "element": "Fire",
+         "sign": "Sagittarius",
+         "name": "2",
+         "image": "flaticon-sagittarius-arch-and-arrow-symbol",
+         "symbol": "flaticon-sagittarius-arrow-sign",
+         "power": 20,
+         "id": "FireSagittarius0"
+      },
+      {
+         "element": "Fire",
+         "sign": "Sagittarius",
+         "name": "3",
+         "image": "flaticon-sagittarius-arch-and-arrow-symbol",
+         "symbol": "flaticon-sagittarius-arrow-sign",
+         "power": 30,
+         "id": "FireSagittarius1"
+      },
+      {
+         "element": "Fire",
+         "sign": "Sagittarius",
+         "name": "4",
+         "image": "flaticon-sagittarius-arch-and-arrow-symbol",
+         "symbol": "flaticon-sagittarius-arrow-sign",
+         "power": 40,
+         "id": "FireSagittarius2"
+      },
+      {
+         "element": "Fire",
+         "sign": "Sagittarius",
+         "name": "5",
+         "image": "flaticon-sagittarius-arch-and-arrow-symbol",
+         "symbol": "flaticon-sagittarius-arrow-sign",
+         "power": 50,
+         "id": "FireSagittarius3"
+      },
+      {
+         "element": "Fire",
+         "sign": "Sagittarius",
+         "name": "6",
+         "image": "flaticon-sagittarius-arch-and-arrow-symbol",
+         "symbol": "flaticon-sagittarius-arrow-sign",
+         "power": 60,
+         "id": "FireSagittarius4"
+      },
+      {
+         "element": "Fire",
+         "sign": "Sagittarius",
+         "name": "Q",
+         "image": "flaticon-sagittarius-arch-and-arrow-symbol",
+         "symbol": "flaticon-sagittarius-arrow-sign",
+         "power": 120,
+         "id": "FireSagittarius5"
+      },
+      {
+         "element": "Fire",
+         "sign": "Sagittarius",
+         "name": "J",
+         "image": "flaticon-sagittarius-arch-and-arrow-symbol",
+         "symbol": "flaticon-sagittarius-arrow-sign",
+         "power": 130,
+         "id": "FireSagittarius6"
+      },
+      {
+         "element": "Fire",
+         "sign": "Sagittarius",
+         "name": "K",
+         "image": "flaticon-sagittarius-arch-and-arrow-symbol",
+         "symbol": "flaticon-sagittarius-arrow-sign",
+         "power": 140,
+         "id": "FireSagittarius7"
+      },
+      {
+         "element": "Fire",
+         "sign": "Sagittarius",
+         "name": "7",
+         "image": "flaticon-sagittarius-arch-and-arrow-symbol",
+         "symbol": "flaticon-sagittarius-arrow-sign",
+         "power": 200,
+         "id": "FireSagittarius8"
+      },
+      {
+         "element": "Fire",
+         "sign": "Sagittarius",
+         "name": "A",
+         "image": "flaticon-sagittarius-arch-and-arrow-symbol",
+         "symbol": "flaticon-sagittarius-arrow-sign",
+         "power": 210,
+         "id": "FireSagittarius9"
+      }
+   ],
+   [
+      {
+         "element": "Water",
+         "sign": "Cancer",
+         "name": "2",
+         "image": "flaticon-cancer",
+         "symbol": "flaticon-cancer-zodiac-sign-symbol",
+         "power": 20,
+         "id": "WaterCancer0"
+      },
+      {
+         "element": "Water",
+         "sign": "Cancer",
+         "name": "3",
+         "image": "flaticon-cancer",
+         "symbol": "flaticon-cancer-zodiac-sign-symbol",
+         "power": 30,
+         "id": "WaterCancer1"
+      },
+      {
+         "element": "Water",
+         "sign": "Cancer",
+         "name": "4",
+         "image": "flaticon-cancer",
+         "symbol": "flaticon-cancer-zodiac-sign-symbol",
+         "power": 40,
+         "id": "WaterCancer2"
+      },
+      {
+         "element": "Water",
+         "sign": "Cancer",
+         "name": "5",
+         "image": "flaticon-cancer",
+         "symbol": "flaticon-cancer-zodiac-sign-symbol",
+         "power": 50,
+         "id": "WaterCancer3"
+      },
+      {
+         "element": "Water",
+         "sign": "Cancer",
+         "name": "6",
+         "image": "flaticon-cancer",
+         "symbol": "flaticon-cancer-zodiac-sign-symbol",
+         "power": 60,
+         "id": "WaterCancer4"
+      },
+      {
+         "element": "Water",
+         "sign": "Cancer",
+         "name": "Q",
+         "image": "flaticon-cancer",
+         "symbol": "flaticon-cancer-zodiac-sign-symbol",
+         "power": 120,
+         "id": "WaterCancer5"
+      },
+      {
+         "element": "Water",
+         "sign": "Cancer",
+         "name": "J",
+         "image": "flaticon-cancer",
+         "symbol": "flaticon-cancer-zodiac-sign-symbol",
+         "power": 130,
+         "id": "WaterCancer6"
+      },
+      {
+         "element": "Water",
+         "sign": "Cancer",
+         "name": "K",
+         "image": "flaticon-cancer",
+         "symbol": "flaticon-cancer-zodiac-sign-symbol",
+         "power": 140,
+         "id": "WaterCancer7"
+      },
+      {
+         "element": "Water",
+         "sign": "Cancer",
+         "name": "7",
+         "image": "flaticon-cancer",
+         "symbol": "flaticon-cancer-zodiac-sign-symbol",
+         "power": 200,
+         "id": "WaterCancer8"
+      },
+      {
+         "element": "Water",
+         "sign": "Cancer",
+         "name": "A",
+         "image": "flaticon-cancer",
+         "symbol": "flaticon-cancer-zodiac-sign-symbol",
+         "power": 210,
+         "id": "WaterCancer9"
+      }
+   ],
+   [
+      {
+         "element": "Water",
+         "sign": "Scorpio",
+         "name": "2",
+         "image": "flaticon-scorpion-shape-of-zodiac-sign",
+         "symbol": "flaticon-scorpion-astrological-sign",
+         "power": 20,
+         "id": "WaterScorpio0"
+      },
+      {
+         "element": "Water",
+         "sign": "Scorpio",
+         "name": "3",
+         "image": "flaticon-scorpion-shape-of-zodiac-sign",
+         "symbol": "flaticon-scorpion-astrological-sign",
+         "power": 30,
+         "id": "WaterScorpio1"
+      },
+      {
+         "element": "Water",
+         "sign": "Scorpio",
+         "name": "4",
+         "image": "flaticon-scorpion-shape-of-zodiac-sign",
+         "symbol": "flaticon-scorpion-astrological-sign",
+         "power": 40,
+         "id": "WaterScorpio2"
+      },
+      {
+         "element": "Water",
+         "sign": "Scorpio",
+         "name": "5",
+         "image": "flaticon-scorpion-shape-of-zodiac-sign",
+         "symbol": "flaticon-scorpion-astrological-sign",
+         "power": 50,
+         "id": "WaterScorpio3"
+      },
+      {
+         "element": "Water",
+         "sign": "Scorpio",
+         "name": "6",
+         "image": "flaticon-scorpion-shape-of-zodiac-sign",
+         "symbol": "flaticon-scorpion-astrological-sign",
+         "power": 60,
+         "id": "WaterScorpio4"
+      },
+      {
+         "element": "Water",
+         "sign": "Scorpio",
+         "name": "Q",
+         "image": "flaticon-scorpion-shape-of-zodiac-sign",
+         "symbol": "flaticon-scorpion-astrological-sign",
+         "power": 120,
+         "id": "WaterScorpio5"
+      },
+      {
+         "element": "Water",
+         "sign": "Scorpio",
+         "name": "J",
+         "image": "flaticon-scorpion-shape-of-zodiac-sign",
+         "symbol": "flaticon-scorpion-astrological-sign",
+         "power": 130,
+         "id": "WaterScorpio6"
+      },
+      {
+         "element": "Water",
+         "sign": "Scorpio",
+         "name": "K",
+         "image": "flaticon-scorpion-shape-of-zodiac-sign",
+         "symbol": "flaticon-scorpion-astrological-sign",
+         "power": 140,
+         "id": "WaterScorpio7"
+      },
+      {
+         "element": "Water",
+         "sign": "Scorpio",
+         "name": "7",
+         "image": "flaticon-scorpion-shape-of-zodiac-sign",
+         "symbol": "flaticon-scorpion-astrological-sign",
+         "power": 200,
+         "id": "WaterScorpio8"
+      },
+      {
+         "element": "Water",
+         "sign": "Scorpio",
+         "name": "A",
+         "image": "flaticon-scorpion-shape-of-zodiac-sign",
+         "symbol": "flaticon-scorpion-astrological-sign",
+         "power": 210,
+         "id": "WaterScorpio9"
+      }
+   ],
+   [
+      {
+         "element": "Water",
+         "sign": "Pisces",
+         "name": "2",
+         "image": "flaticon-pisces-astrological-sign-symbol",
+         "symbol": "flaticon-pisces-astrological-sign",
+         "power": 20,
+         "id": "WaterPisces0"
+      },
+      {
+         "element": "Water",
+         "sign": "Pisces",
+         "name": "3",
+         "image": "flaticon-pisces-astrological-sign-symbol",
+         "symbol": "flaticon-pisces-astrological-sign",
+         "power": 30,
+         "id": "WaterPisces1"
+      },
+      {
+         "element": "Water",
+         "sign": "Pisces",
+         "name": "4",
+         "image": "flaticon-pisces-astrological-sign-symbol",
+         "symbol": "flaticon-pisces-astrological-sign",
+         "power": 40,
+         "id": "WaterPisces2"
+      },
+      {
+         "element": "Water",
+         "sign": "Pisces",
+         "name": "5",
+         "image": "flaticon-pisces-astrological-sign-symbol",
+         "symbol": "flaticon-pisces-astrological-sign",
+         "power": 50,
+         "id": "WaterPisces3"
+      },
+      {
+         "element": "Water",
+         "sign": "Pisces",
+         "name": "6",
+         "image": "flaticon-pisces-astrological-sign-symbol",
+         "symbol": "flaticon-pisces-astrological-sign",
+         "power": 60,
+         "id": "WaterPisces4"
+      },
+      {
+         "element": "Water",
+         "sign": "Pisces",
+         "name": "Q",
+         "image": "flaticon-pisces-astrological-sign-symbol",
+         "symbol": "flaticon-pisces-astrological-sign",
+         "power": 120,
+         "id": "WaterPisces5"
+      },
+      {
+         "element": "Water",
+         "sign": "Pisces",
+         "name": "J",
+         "image": "flaticon-pisces-astrological-sign-symbol",
+         "symbol": "flaticon-pisces-astrological-sign",
+         "power": 130,
+         "id": "WaterPisces6"
+      },
+      {
+         "element": "Water",
+         "sign": "Pisces",
+         "name": "K",
+         "image": "flaticon-pisces-astrological-sign-symbol",
+         "symbol": "flaticon-pisces-astrological-sign",
+         "power": 140,
+         "id": "WaterPisces7"
+      },
+      {
+         "element": "Water",
+         "sign": "Pisces",
+         "name": "7",
+         "image": "flaticon-pisces-astrological-sign-symbol",
+         "symbol": "flaticon-pisces-astrological-sign",
+         "power": 200,
+         "id": "WaterPisces8"
+      },
+      {
+         "element": "Water",
+         "sign": "Pisces",
+         "name": "A",
+         "image": "flaticon-pisces-astrological-sign-symbol",
+         "symbol": "flaticon-pisces-astrological-sign",
+         "power": 210,
+         "id": "WaterPisces9"
+      }
+   ],
+   [
+      {
+         "element": "Earth",
+         "sign": "Taurus",
+         "name": "2",
+         "image": "flaticon-taurus-zodiac-symbol-of-bull-head-front",
+         "symbol": "flaticon-taurus-astrological-sign-symbol-1",
+         "power": 20,
+         "id": "EarthTaurus0"
+      },
+      {
+         "element": "Earth",
+         "sign": "Taurus",
+         "name": "3",
+         "image": "flaticon-taurus-zodiac-symbol-of-bull-head-front",
+         "symbol": "flaticon-taurus-astrological-sign-symbol-1",
+         "power": 30,
+         "id": "EarthTaurus1"
+      },
+      {
+         "element": "Earth",
+         "sign": "Taurus",
+         "name": "4",
+         "image": "flaticon-taurus-zodiac-symbol-of-bull-head-front",
+         "symbol": "flaticon-taurus-astrological-sign-symbol-1",
+         "power": 40,
+         "id": "EarthTaurus2"
+      },
+      {
+         "element": "Earth",
+         "sign": "Taurus",
+         "name": "5",
+         "image": "flaticon-taurus-zodiac-symbol-of-bull-head-front",
+         "symbol": "flaticon-taurus-astrological-sign-symbol-1",
+         "power": 50,
+         "id": "EarthTaurus3"
+      },
+      {
+         "element": "Earth",
+         "sign": "Taurus",
+         "name": "6",
+         "image": "flaticon-taurus-zodiac-symbol-of-bull-head-front",
+         "symbol": "flaticon-taurus-astrological-sign-symbol-1",
+         "power": 60,
+         "id": "EarthTaurus4"
+      },
+      {
+         "element": "Earth",
+         "sign": "Taurus",
+         "name": "Q",
+         "image": "flaticon-taurus-zodiac-symbol-of-bull-head-front",
+         "symbol": "flaticon-taurus-astrological-sign-symbol-1",
+         "power": 120,
+         "id": "EarthTaurus5"
+      },
+      {
+         "element": "Earth",
+         "sign": "Taurus",
+         "name": "J",
+         "image": "flaticon-taurus-zodiac-symbol-of-bull-head-front",
+         "symbol": "flaticon-taurus-astrological-sign-symbol-1",
+         "power": 130,
+         "id": "EarthTaurus6"
+      },
+      {
+         "element": "Earth",
+         "sign": "Taurus",
+         "name": "K",
+         "image": "flaticon-taurus-zodiac-symbol-of-bull-head-front",
+         "symbol": "flaticon-taurus-astrological-sign-symbol-1",
+         "power": 140,
+         "id": "EarthTaurus7"
+      },
+      {
+         "element": "Earth",
+         "sign": "Taurus",
+         "name": "7",
+         "image": "flaticon-taurus-zodiac-symbol-of-bull-head-front",
+         "symbol": "flaticon-taurus-astrological-sign-symbol-1",
+         "power": 200,
+         "id": "EarthTaurus8"
+      },
+      {
+         "element": "Earth",
+         "sign": "Taurus",
+         "name": "A",
+         "image": "flaticon-taurus-zodiac-symbol-of-bull-head-front",
+         "symbol": "flaticon-taurus-astrological-sign-symbol-1",
+         "power": 210,
+         "id": "EarthTaurus9"
+      }
+   ],
+   [
+      {
+         "element": "Earth",
+         "sign": "Virgo",
+         "name": "2",
+         "image": "flaticon-virgo-zodiac-symbol",
+         "symbol": "flaticon-virgo-astrological-symbol-sign-1",
+         "power": 20,
+         "id": "EarthVirgo0"
+      },
+      {
+         "element": "Earth",
+         "sign": "Virgo",
+         "name": "3",
+         "image": "flaticon-virgo-zodiac-symbol",
+         "symbol": "flaticon-virgo-astrological-symbol-sign-1",
+         "power": 30,
+         "id": "EarthVirgo1"
+      },
+      {
+         "element": "Earth",
+         "sign": "Virgo",
+         "name": "4",
+         "image": "flaticon-virgo-zodiac-symbol",
+         "symbol": "flaticon-virgo-astrological-symbol-sign-1",
+         "power": 40,
+         "id": "EarthVirgo2"
+      },
+      {
+         "element": "Earth",
+         "sign": "Virgo",
+         "name": "5",
+         "image": "flaticon-virgo-zodiac-symbol",
+         "symbol": "flaticon-virgo-astrological-symbol-sign-1",
+         "power": 50,
+         "id": "EarthVirgo3"
+      },
+      {
+         "element": "Earth",
+         "sign": "Virgo",
+         "name": "6",
+         "image": "flaticon-virgo-zodiac-symbol",
+         "symbol": "flaticon-virgo-astrological-symbol-sign-1",
+         "power": 60,
+         "id": "EarthVirgo4"
+      },
+      {
+         "element": "Earth",
+         "sign": "Virgo",
+         "name": "Q",
+         "image": "flaticon-virgo-zodiac-symbol",
+         "symbol": "flaticon-virgo-astrological-symbol-sign-1",
+         "power": 120,
+         "id": "EarthVirgo5"
+      },
+      {
+         "element": "Earth",
+         "sign": "Virgo",
+         "name": "J",
+         "image": "flaticon-virgo-zodiac-symbol",
+         "symbol": "flaticon-virgo-astrological-symbol-sign-1",
+         "power": 130,
+         "id": "EarthVirgo6"
+      },
+      {
+         "element": "Earth",
+         "sign": "Virgo",
+         "name": "K",
+         "image": "flaticon-virgo-zodiac-symbol",
+         "symbol": "flaticon-virgo-astrological-symbol-sign-1",
+         "power": 140,
+         "id": "EarthVirgo7"
+      },
+      {
+         "element": "Earth",
+         "sign": "Virgo",
+         "name": "7",
+         "image": "flaticon-virgo-zodiac-symbol",
+         "symbol": "flaticon-virgo-astrological-symbol-sign-1",
+         "power": 200,
+         "id": "EarthVirgo8"
+      },
+      {
+         "element": "Earth",
+         "sign": "Virgo",
+         "name": "A",
+         "image": "flaticon-virgo-zodiac-symbol",
+         "symbol": "flaticon-virgo-astrological-symbol-sign-1",
+         "power": 210,
+         "id": "EarthVirgo9"
+      }
+   ],
+   [
+      {
+         "element": "Earth",
+         "sign": "Capricorn",
+         "name": "2",
+         "image": "flaticon-capricorn-1",
+         "symbol": "flaticon-capricorn-sign",
+         "power": 20,
+         "id": "EarthCapricorn0"
+      },
+      {
+         "element": "Earth",
+         "sign": "Capricorn",
+         "name": "3",
+         "image": "flaticon-capricorn-1",
+         "symbol": "flaticon-capricorn-sign",
+         "power": 30,
+         "id": "EarthCapricorn1"
+      },
+      {
+         "element": "Earth",
+         "sign": "Capricorn",
+         "name": "4",
+         "image": "flaticon-capricorn-1",
+         "symbol": "flaticon-capricorn-sign",
+         "power": 40,
+         "id": "EarthCapricorn2"
+      },
+      {
+         "element": "Earth",
+         "sign": "Capricorn",
+         "name": "5",
+         "image": "flaticon-capricorn-1",
+         "symbol": "flaticon-capricorn-sign",
+         "power": 50,
+         "id": "EarthCapricorn3"
+      },
+      {
+         "element": "Earth",
+         "sign": "Capricorn",
+         "name": "6",
+         "image": "flaticon-capricorn-1",
+         "symbol": "flaticon-capricorn-sign",
+         "power": 60,
+         "id": "EarthCapricorn4"
+      },
+      {
+         "element": "Earth",
+         "sign": "Capricorn",
+         "name": "Q",
+         "image": "flaticon-capricorn-1",
+         "symbol": "flaticon-capricorn-sign",
+         "power": 120,
+         "id": "EarthCapricorn5"
+      },
+      {
+         "element": "Earth",
+         "sign": "Capricorn",
+         "name": "J",
+         "image": "flaticon-capricorn-1",
+         "symbol": "flaticon-capricorn-sign",
+         "power": 130,
+         "id": "EarthCapricorn6"
+      },
+      {
+         "element": "Earth",
+         "sign": "Capricorn",
+         "name": "K",
+         "image": "flaticon-capricorn-1",
+         "symbol": "flaticon-capricorn-sign",
+         "power": 140,
+         "id": "EarthCapricorn7"
+      },
+      {
+         "element": "Earth",
+         "sign": "Capricorn",
+         "name": "7",
+         "image": "flaticon-capricorn-1",
+         "symbol": "flaticon-capricorn-sign",
+         "power": 200,
+         "id": "EarthCapricorn8"
+      },
+      {
+         "element": "Earth",
+         "sign": "Capricorn",
+         "name": "A",
+         "image": "flaticon-capricorn-1",
+         "symbol": "flaticon-capricorn-sign",
+         "power": 210,
+         "id": "EarthCapricorn9"
+      }
+   ],
+   [
+      {
+         "element": "Air",
+         "sign": "Gemini",
+         "name": "2",
+         "image": "flaticon-gemini-two-twins-heads-symbol",
+         "symbol": "flaticon-gemini-zodiac-sign-symbol",
+         "power": 20,
+         "id": "AirGemini0"
+      },
+      {
+         "element": "Air",
+         "sign": "Gemini",
+         "name": "3",
+         "image": "flaticon-gemini-two-twins-heads-symbol",
+         "symbol": "flaticon-gemini-zodiac-sign-symbol",
+         "power": 30,
+         "id": "AirGemini1"
+      },
+      {
+         "element": "Air",
+         "sign": "Gemini",
+         "name": "4",
+         "image": "flaticon-gemini-two-twins-heads-symbol",
+         "symbol": "flaticon-gemini-zodiac-sign-symbol",
+         "power": 40,
+         "id": "AirGemini2"
+      },
+      {
+         "element": "Air",
+         "sign": "Gemini",
+         "name": "5",
+         "image": "flaticon-gemini-two-twins-heads-symbol",
+         "symbol": "flaticon-gemini-zodiac-sign-symbol",
+         "power": 50,
+         "id": "AirGemini3"
+      },
+      {
+         "element": "Air",
+         "sign": "Gemini",
+         "name": "6",
+         "image": "flaticon-gemini-two-twins-heads-symbol",
+         "symbol": "flaticon-gemini-zodiac-sign-symbol",
+         "power": 60,
+         "id": "AirGemini4"
+      },
+      {
+         "element": "Air",
+         "sign": "Gemini",
+         "name": "Q",
+         "image": "flaticon-gemini-two-twins-heads-symbol",
+         "symbol": "flaticon-gemini-zodiac-sign-symbol",
+         "power": 120,
+         "id": "AirGemini5"
+      },
+      {
+         "element": "Air",
+         "sign": "Gemini",
+         "name": "J",
+         "image": "flaticon-gemini-two-twins-heads-symbol",
+         "symbol": "flaticon-gemini-zodiac-sign-symbol",
+         "power": 130,
+         "id": "AirGemini6"
+      },
+      {
+         "element": "Air",
+         "sign": "Gemini",
+         "name": "K",
+         "image": "flaticon-gemini-two-twins-heads-symbol",
+         "symbol": "flaticon-gemini-zodiac-sign-symbol",
+         "power": 140,
+         "id": "AirGemini7"
+      },
+      {
+         "element": "Air",
+         "sign": "Gemini",
+         "name": "7",
+         "image": "flaticon-gemini-two-twins-heads-symbol",
+         "symbol": "flaticon-gemini-zodiac-sign-symbol",
+         "power": 200,
+         "id": "AirGemini8"
+      },
+      {
+         "element": "Air",
+         "sign": "Gemini",
+         "name": "A",
+         "image": "flaticon-gemini-two-twins-heads-symbol",
+         "symbol": "flaticon-gemini-zodiac-sign-symbol",
+         "power": 210,
+         "id": "AirGemini9"
+      }
+   ],
+   [
+      {
+         "element": "Air",
+         "sign": "Libra",
+         "name": "2",
+         "image": "flaticon-libra-balanced-scale-symbol",
+         "symbol": "flaticon-libra-sign",
+         "power": 20,
+         "id": "AirLibra0"
+      },
+      {
+         "element": "Air",
+         "sign": "Libra",
+         "name": "3",
+         "image": "flaticon-libra-balanced-scale-symbol",
+         "symbol": "flaticon-libra-sign",
+         "power": 30,
+         "id": "AirLibra1"
+      },
+      {
+         "element": "Air",
+         "sign": "Libra",
+         "name": "4",
+         "image": "flaticon-libra-balanced-scale-symbol",
+         "symbol": "flaticon-libra-sign",
+         "power": 40,
+         "id": "AirLibra2"
+      },
+      {
+         "element": "Air",
+         "sign": "Libra",
+         "name": "5",
+         "image": "flaticon-libra-balanced-scale-symbol",
+         "symbol": "flaticon-libra-sign",
+         "power": 50,
+         "id": "AirLibra3"
+      },
+      {
+         "element": "Air",
+         "sign": "Libra",
+         "name": "6",
+         "image": "flaticon-libra-balanced-scale-symbol",
+         "symbol": "flaticon-libra-sign",
+         "power": 60,
+         "id": "AirLibra4"
+      },
+      {
+         "element": "Air",
+         "sign": "Libra",
+         "name": "Q",
+         "image": "flaticon-libra-balanced-scale-symbol",
+         "symbol": "flaticon-libra-sign",
+         "power": 120,
+         "id": "AirLibra5"
+      },
+      {
+         "element": "Air",
+         "sign": "Libra",
+         "name": "J",
+         "image": "flaticon-libra-balanced-scale-symbol",
+         "symbol": "flaticon-libra-sign",
+         "power": 130,
+         "id": "AirLibra6"
+      },
+      {
+         "element": "Air",
+         "sign": "Libra",
+         "name": "K",
+         "image": "flaticon-libra-balanced-scale-symbol",
+         "symbol": "flaticon-libra-sign",
+         "power": 140,
+         "id": "AirLibra7"
+      },
+      {
+         "element": "Air",
+         "sign": "Libra",
+         "name": "7",
+         "image": "flaticon-libra-balanced-scale-symbol",
+         "symbol": "flaticon-libra-sign",
+         "power": 200,
+         "id": "AirLibra8"
+      },
+      {
+         "element": "Air",
+         "sign": "Libra",
+         "name": "A",
+         "image": "flaticon-libra-balanced-scale-symbol",
+         "symbol": "flaticon-libra-sign",
+         "power": 210,
+         "id": "AirLibra9"
+      }
+   ],
+   [
+      {
+         "element": "Air",
+         "sign": "Aquarius",
+         "name": "2",
+         "image": "flaticon-aquarius",
+         "symbol": "flaticon-aquarius-zodiac-sign-symbol",
+         "power": 20,
+         "id": "AirAquarius0"
+      },
+      {
+         "element": "Air",
+         "sign": "Aquarius",
+         "name": "3",
+         "image": "flaticon-aquarius",
+         "symbol": "flaticon-aquarius-zodiac-sign-symbol",
+         "power": 30,
+         "id": "AirAquarius1"
+      },
+      {
+         "element": "Air",
+         "sign": "Aquarius",
+         "name": "4",
+         "image": "flaticon-aquarius",
+         "symbol": "flaticon-aquarius-zodiac-sign-symbol",
+         "power": 40,
+         "id": "AirAquarius2"
+      },
+      {
+         "element": "Air",
+         "sign": "Aquarius",
+         "name": "5",
+         "image": "flaticon-aquarius",
+         "symbol": "flaticon-aquarius-zodiac-sign-symbol",
+         "power": 50,
+         "id": "AirAquarius3"
+      },
+      {
+         "element": "Air",
+         "sign": "Aquarius",
+         "name": "6",
+         "image": "flaticon-aquarius",
+         "symbol": "flaticon-aquarius-zodiac-sign-symbol",
+         "power": 60,
+         "id": "AirAquarius4"
+      },
+      {
+         "element": "Air",
+         "sign": "Aquarius",
+         "name": "Q",
+         "image": "flaticon-aquarius",
+         "symbol": "flaticon-aquarius-zodiac-sign-symbol",
+         "power": 120,
+         "id": "AirAquarius5"
+      },
+      {
+         "element": "Air",
+         "sign": "Aquarius",
+         "name": "J",
+         "image": "flaticon-aquarius",
+         "symbol": "flaticon-aquarius-zodiac-sign-symbol",
+         "power": 130,
+         "id": "AirAquarius6"
+      },
+      {
+         "element": "Air",
+         "sign": "Aquarius",
+         "name": "K",
+         "image": "flaticon-aquarius",
+         "symbol": "flaticon-aquarius-zodiac-sign-symbol",
+         "power": 140,
+         "id": "AirAquarius7"
+      },
+      {
+         "element": "Air",
+         "sign": "Aquarius",
+         "name": "7",
+         "image": "flaticon-aquarius",
+         "symbol": "flaticon-aquarius-zodiac-sign-symbol",
+         "power": 200,
+         "id": "AirAquarius8"
+      },
+      {
+         "element": "Air",
+         "sign": "Aquarius",
+         "name": "A",
+         "image": "flaticon-aquarius",
+         "symbol": "flaticon-aquarius-zodiac-sign-symbol",
+         "power": 210,
+         "id": "AirAquarius9"
+      }
+   ]
+]

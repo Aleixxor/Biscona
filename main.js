@@ -1,4 +1,5 @@
-const cardList = [];
+let cardList = {};
+let allUsers = {};
 const classesNames = { 
     "Aries":[
         "flaticon-aries-zodiac-symbol-of-frontal-goat-head",
@@ -59,6 +60,7 @@ const signs = {
 const names = ["2", "3", "4", "5", "6", "Q", "J", "K", "7", "A"];
 
 function cardListStart(){
+    cardList = {};
     elements.forEach(element => {
         signs[element].forEach(sign => {
             generateDeckList(element, sign);
@@ -69,18 +71,21 @@ function cardListStart(){
 function generateDeckList(element, sign){
     let deck = [];
     let card = {};
-    names.forEach(function(name,$index){
+    for(let index=0; index < names.length; index++){
+        card = {};
         card.element = element;
         card.sign = sign;
-        card.name = name;
+        card.name = names[index];
         card.image = classesNames[sign][0];
         card.symbol = classesNames[sign][1];
-        card.power = addCardPower($index);
-        card.id = card.element+card.sign+$index;
+        card.power = addCardPower(index);
+        card.id = card.element+card.sign+index;
         console.log(card);
         deck.push(card);
-        console.log(deck);
-    })
+        console.log(JSON.stringify(deck));
+        console.log("END")
+    }
+    cardList.push({sign: deck});
 }
 
 function addCardPower(x){
@@ -92,6 +97,36 @@ function addCardPower(x){
     }
     return power;
 }
+
+function getDeckBySign(sign){
+    let selectedDeck = [];
+    cardList.forEach(deck =>{
+        if(deck[0].sign == sign){
+            selectedDeck = deck;
+        }
+    });
+    return selectedDeck;
+}
+
+function init(){
+    $.getJSON("cardList.json", function( data ) {
+        console.log("data: ")
+        console.log(data);
+        cardList = data;
+        // $.each( data, function( key, val ) {
+        //     console.log("key: ")
+        //     console.log(key)
+        //     console.log("val: ")
+        //     console.log(val)
+        // });
+    });
+    // $.getJSON("users.json", function( data ) {
+    //     console.log("data: ")
+    //     console.log(data);
+    //     allUsers = data;
+    // });
+}
+
 
 elements.forEach(element => {
     signs[element].forEach(sign =>{
